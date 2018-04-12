@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 h1{
-  background-color: purple;
-=======
+  background-color: lightblue;
+}
 #tanyaDiv {
   background-color: yellow;
   color: blue;
 }
 
-img {
-  max-height: 200px;
-  max-width: 200px;
+.avatar {
+  height: 200px;
+  width: 200px;
 }
