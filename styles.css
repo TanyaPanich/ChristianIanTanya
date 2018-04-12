@@ -1,5 +1,9 @@
 h1{
+<<<<<<< HEAD
   background-color: blue;
+=======
+  background-color: green;
+>>>>>>> 0ff9244357f609f54cc3b979256c9ec316fd0cfd
 }
 #tanyaDiv {
   background-color: yellow;
